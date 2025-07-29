@@ -34,7 +34,6 @@ An interactive and data-driven web application tailored for real estate platform
 ##  Built With
 
 - HTML / CSS
-- JavaScript
 - Python flask
 - SQL Lite 
 
